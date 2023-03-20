@@ -1,0 +1,120 @@
+body{
+    background-color: #FFB7C5;
+    margin: 20px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    outline-style: solid;
+    background-color: black;
+}
+
+#foto{
+    padding-right: 10px;
+    width: 200px;
+}
+#titulo{
+    padding-left: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 4px;
+    padding: 0px;
+    font-size: 18px;
+}
+
+.contenido{
+    display: flex;
+    align-items: center;
+}
+
+.parrafos{
+    margin-left: 4px;
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    background-color: orangered;
+    margin-bottom: 4px;
+}
+
+#sushi{
+    margin-left: 4px;
+    height: 250px;
+}
+
+.descripcion{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    margin-top: 0cm;
+}
+
+.pol{
+    background-color: white;
+    border-style: solid;
+    border-color: white;
+    margin-bottom: 0px;
+    line-height: 2px;
+}
+
+.navegador{
+    background-color: rgba(216, 188, 241, 0.986);
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    margin-left: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#final{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+textarea{
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+#nono{
+    font-size: 16px;
+    background-color: aliceblue;
+}
+
+.datos{
+    vertical-align: text-top;
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+}
